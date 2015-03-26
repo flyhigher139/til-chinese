@@ -1,3 +1,5 @@
+#基于nginx和uWSGI在Ubuntu上部署Django
+
 本文主要参考[uWSGI](http://uwsgi-docs.readthedocs.org/en/latest/tutorials/Django_and_nginx.html)的文档
 
 #1. nginx
